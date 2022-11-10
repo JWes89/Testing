@@ -2,6 +2,9 @@ package org.example;
 
 public class Main {
 
+    static void mental() {
+        System.out.print("This is mental");
+    }
 
     public static void main(String[] args) {
 
@@ -11,8 +14,6 @@ public class Main {
         System.out.println("testing this works");
         //adding comment 
         
-        public void mental){
-            System.out.print("This is mental")
-            }
+       mental();
     }
 }
