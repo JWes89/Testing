@@ -17,5 +17,7 @@ public class Main {
        mental();
 
        // adding
+        
+        //proper mental, chicken oriental it is lad
     }
 }
